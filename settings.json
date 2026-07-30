@@ -8,7 +8,7 @@
   "server": {
     "ip": "Malarkey1.aternos.me",
     "port": 34337,
-    "version": "",
+    "version": "1.21.6",
     "try-creative": true
   },
   "position": {
