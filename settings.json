@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Malarkey1.aternos.me:34337",
+    "ip": "Malarkey1.aternos.me",
     "port": 34337,
     "version": "26.2",
     "try-creative": true
